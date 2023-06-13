@@ -1,5 +1,8 @@
 Quinn Vo, CSCI 573
 
+DESCRIPTION: The goal of this project is to create a model that is able to distinguish six different human behaviors using a support vector machine. 
+Please see FinalReport.pdf for more details.
+
 IMPORTANT: 
 MAKE SURE TO USE PYTHON 3. 
 You MIGHT have to do an installation of LIBSVM with PYTHON 3. 
